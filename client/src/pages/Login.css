@@ -1,0 +1,8 @@
+.login__bg {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/329/832/original/3d-social-media-with-video-and-photo-gallery-platform-online-social-communication-applications-concept-emoji-webpage-search-icons-chat-with-write-background-image-3d-render-vector.jpg);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}

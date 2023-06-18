@@ -1,0 +1,8 @@
+.signup__bg {
+    background-image: url(https://www.viamove.co/welcome/wp-content/uploads/2020/09/live-chat-support1.png);
+    height: 89.9vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
